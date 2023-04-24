@@ -16,3 +16,5 @@ change for feature A
 
 change for featureA2
 another change forA2
+
+change for B
